@@ -1,0 +1,10 @@
+1. open vstdio
+2. open terminal and go to file python directory eq. D:\dm)
+3. run file with code: streamlit run index.py (eq. PS D:\dm> steamlit run index.py)
+	You can now view your Streamlit app in your browser.
+  	Local URL: http://localhost:8501
+  	Network URL: http://192.168.1.12:8501
+4. go head.. the browser or application is your
+5. to open API : http://localhost:5000/get_data? --all data
+		 http://localhost:5000/get_data?v1=1000  --file data by id
+5. open your postman and put the url to get data.
