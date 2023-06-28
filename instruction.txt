@@ -1,3 +1,11 @@
+installation instruction :
+1. create folder ".streamlit" for drop file "secrets.toml"
+2. create folder "data_input" for input file location
+3. create folder "data_output" for output file
+
+
+Instruction for use:
+---------------------------
 1. open vstdio
 2. open terminal and go to file python directory eq. D:\dm)
 3. run file with code: streamlit run index.py (eq. PS D:\dm> steamlit run index.py)
